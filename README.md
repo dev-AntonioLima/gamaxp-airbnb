@@ -10,10 +10,12 @@ Ter uma página elegantosa, como a exibida ao lado. Nessa página, deve conter:
 
 - Cabeçalho
 - Cards com:
-  - Foto da propriedade
-  - Tipo da propriedade
-  - Nome da propriedade
-  - Preço da propriedade
+
+1.Foto da propriedade
+2.Tipo da propriedade
+3.Nome da propriedade
+4.Preço da propriedade
+
 - Rodapé
 
 Onde, os dados dos cards deverão ser exibidos através de uma requisição em API externa.
